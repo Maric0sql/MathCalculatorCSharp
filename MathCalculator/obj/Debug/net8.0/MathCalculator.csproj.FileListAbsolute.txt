@@ -1,0 +1,14 @@
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\bin\Debug\net8.0\MathCalculator.exe
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\bin\Debug\net8.0\MathCalculator.deps.json
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\bin\Debug\net8.0\MathCalculator.runtimeconfig.json
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\bin\Debug\net8.0\MathCalculator.dll
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\bin\Debug\net8.0\MathCalculator.pdb
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.AssemblyInfoInputs.cache
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.AssemblyInfo.cs
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.dll
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\refint\MathCalculator.dll
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.pdb
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\MathCalculator.genruntimeconfig.cache
+C:\Users\marico\source\repos\MathCalculator\MathCalculator\obj\Debug\net8.0\ref\MathCalculator.dll
